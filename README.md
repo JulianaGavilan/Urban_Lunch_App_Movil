@@ -23,3 +23,5 @@ Es la primera version de la aplicacion movil para Android, que permite pedir com
 ## Mi trabajo como Tester
 Consiste en analizar los requisitos, de acuerdo a ellos plantear una lista de comprobacion y realizar las pruebas en Android Studio o en un dispositivo Android. De acuerdo a los resultados de estas pruebas se crean los reportes de error en Jira.
 
+https://julianagavilanp98.atlassian.net/jira/software/c/projects/S5/list
+
