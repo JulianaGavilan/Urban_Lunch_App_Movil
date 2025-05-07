@@ -3,6 +3,13 @@ Es la primera version de la aplicacion movil para Android, que permite pedir com
 
 [![Urban-lunch.png](https://i.postimg.cc/W3Tjd3b6/Urban-lunch.png)](https://postimg.cc/p9G37Pjp)
 
+<img decoding="async" 
+     src="https://img.shields.io/badge/Pruebas de aplicaciones moviles-C1F0DC?&style=for-the-badge&logo=Dise&logoColor=white" 
+     alt="Diseño de pruebas"/>
+<img decoding="async"
+     src="https://img.shields.io/badge/Android Studio-FFDAB9?style=for-the-badge&logo=Casos&logoColor=white" 
+     alt="Casos de Prueba"/>
+
 ## Como se usa?
 1. Se selecciona el punto de recogida
    
