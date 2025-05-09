@@ -1,5 +1,5 @@
 # Urban Lunch Aplicación Movil
-Es la primera version de la aplicacion movil para Android, que permite pedir comidas de diferentes restaurantes de la ciudad y luego recibirla en uno de los puntos de recogida.
+Urban Lunch es una innovadora aplicación móvil para Android, desarrollada por Tripleten, que facilita el acceso a la mejor oferta gastronómica de la ciudad. Con Urban Lunch, puedes pedir comidas de diversos restaurantes locales y recoger tu pedido de manera rápida y conveniente en uno de los puntos de entrega habilitados. Esta primera versión refleja el compromiso de Tripleten con soluciones prácticas y efectivas para mejorar la experiencia culinaria urbana.
 
 [![Urban-lunch.png](https://i.postimg.cc/W3Tjd3b6/Urban-lunch.png)](https://postimg.cc/p9G37Pjp)
 
